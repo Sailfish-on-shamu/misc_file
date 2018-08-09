@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/moto/shamu" remote="private" name="Sailfish-on-shamu/android_device_moto_shamu" 
+revision="cm-14.1" />
+  <project path="kernel/moto/shamu" remote="private" name="Sailfish-on-shamu/android_kernel_moto_shamu" 
+revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/moto" revision="cm-14.1"  />
+  <project path="rpm/" name="Sailfish-on-shamu/droid-hal-shamu" revision="master" />
+  <project path="hybris/droid-configs" name="Sailfish-on-shamu/droid-config-shamu" revision="master" />
+  <project path="hybris/droid-hal-version-shamu" name="Sailfish-on-shamu/droid-hal-version-shamu" revision="master" />
+</manifest>
